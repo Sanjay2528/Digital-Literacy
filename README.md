@@ -40,8 +40,6 @@ Created and updated professional profiles on:
 - LinkedIn  
 - Kaggle  
 
-Included profile setup, bio, and portfolio readiness.
-
 ---
 
 ### 💻 Task 3: Coding & Collaboration Platforms
@@ -55,12 +53,12 @@ Included profile setup, bio, and portfolio readiness.
 - Wrote two professional emails:
   - Assignment extension request  
   - Internship inquiry  
-- Created a social media do’s and don’ts checklist  
+- Created a social media checklist  
 
 ---
 
 ### 🔐 Task 5: Cybersecurity Awareness Case Study
-Analyzed a cybersecurity scenario and created a prevention guide focusing on safe practices.
+Analyzed a cybersecurity scenario and created a prevention guide.
 
 ---
 
@@ -68,6 +66,7 @@ Analyzed a cybersecurity scenario and created a prevention guide focusing on saf
 - **GitHub Profile:** https://github.com/Sanjay2528  
 - **LinkedIn Profile:** https://www.linkedin.com/in/sanjay-kurra-aa380837a  
 - **Kaggle Profile:** https://kaggle.com/kurrasanjay  
+- **Google Form Quiz:** https://docs.google.com/forms/d/e/1FAIpQLScaRqDx-jKLaGjywwOue1bdNVGh4Am7yykuU1iKiXSuS26IOg/viewform  
 
 ---
 
