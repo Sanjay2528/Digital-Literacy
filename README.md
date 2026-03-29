@@ -129,8 +129,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScaRqDx-jKLaGjywwOue1bdNVGh4Am7yykuU1iK
   * Internship inquiry
 * Created a checklist for professional communication on social media
 
-📎 **Email Samples:** [Add link or file]
-📎 **Checklist:** [Add link]
+
 
 ---
 
@@ -140,8 +139,6 @@ https://docs.google.com/forms/d/e/1FAIpQLScaRqDx-jKLaGjywwOue1bdNVGh4Am7yykuU1iK
 * Identified risks and vulnerabilities
 * Developed a prevention and safety guide
 
-📎 **Case Study Document:** [Add link]
-📸 **Screenshot:** [Add image or link]
 
 ---
 
