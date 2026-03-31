@@ -104,7 +104,11 @@ Digital-Literacy-Portfolio/
 * Ensured profiles include bio, skills, and projects
 
 📎 **GitHub Profile:** https://github.com/Sanjay2528
+
+   **Github Repositorie:**
+    
 📎 **LinkedIn Profile:** https://www.linkedin.com/in/sanjay-kurra-aa380837a
+
 📎 **Kaggle Profile:** https://kaggle.com/kurrasanjay
 
 ---
