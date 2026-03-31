@@ -105,7 +105,7 @@ Digital-Literacy-Portfolio/
 
 📎 **GitHub Profile:** https://github.com/Sanjay2528
 
-   **Github Repositorie:**
+  ***Github Repositorie:** https://github.com/Sanjay2528/Digital-Literacy.git
     
 📎 **LinkedIn Profile:** https://www.linkedin.com/in/sanjay-kurra-aa380837a
 
